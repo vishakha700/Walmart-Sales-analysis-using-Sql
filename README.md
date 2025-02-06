@@ -23,5 +23,4 @@ The project includes:
 - The highest revenue was recorded in Q4 due to holiday sales.
 - The `Electronics` category contributed to 40% of total revenue.
 
-### Visuals:
-Insights are supported with charts and dashboards (images in the `Images` folder).
+
